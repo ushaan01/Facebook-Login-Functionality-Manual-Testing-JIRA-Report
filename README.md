@@ -33,7 +33,8 @@ Status: ❌ Failed
 Environment: www.facebook.com
 
 
-Suggested next steps: 
+Suggested next steps:
+
   Reconfirm the test credentials are correct.  
   Try the same steps in another browser.
   Check for any error messages on the page.
