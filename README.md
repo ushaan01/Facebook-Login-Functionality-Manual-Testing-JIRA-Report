@@ -33,9 +33,10 @@ Status: ❌ Failed
 Environment: www.facebook.com
 
 
-Suggested next steps: Reconfirm the test credentials are correct.  
-                      Try the same steps in another browser.
-                        Check for any error messages on the page.
+Suggested next steps: 
+  Reconfirm the test credentials are correct.  
+  Try the same steps in another browser.
+  Check for any error messages on the page.
 
 🧰 Test Artifacts
                  Test Case Document: Facebook Login Functionality Test Case.xlsx
