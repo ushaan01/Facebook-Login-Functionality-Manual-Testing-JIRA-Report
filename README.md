@@ -49,13 +49,18 @@ Test Case Document: Facebook Login Functionality Test Case.xlsx
 Bug Report: Jira_Report.png
 
 Test Type: Functional Testing
+
 Testing Approach: Positive and Negative testing
 
 📈 Tools Used
-             Test Case Management: Excel
-             Bug Tracking: Jira
-             Environment: Web Application (Facebook)
-             Browser Used: Chrome
+
+  Test Case Management: Excel
+  
+   Bug Tracking: Jira
+   
+ Environment: Web Application (Facebook)
+ 
+ Browser Used: Chrome
 
 👩‍💻 Author
 
