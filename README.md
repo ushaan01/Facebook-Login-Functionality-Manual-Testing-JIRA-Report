@@ -18,14 +18,20 @@ Test Case ID: TC_FB_01
 
 Test Case Title: Login Failed with Valid Credentials
 
-Description: Click on login
-             Enter valid email and password
-             Click on submit
-             Observe login result
+Description:
+           Click on login
+           Enter valid email and password
+           Click on submit
+           Observe login result
+           
 Expected Result: Login should be successful
+
 Actual Result: Login failed
+
 Status: ❌ Failed
+
 Environment: www.facebook.com
+
 
 Suggested next steps: Reconfirm the test credentials are correct.
                       Try the same steps in another browser.
