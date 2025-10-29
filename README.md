@@ -65,6 +65,8 @@ Testing Approach: Positive and Negative testing
 👩‍💻 Author
 
 Name: Usha Umesh Nazare
+
 Role: QA Tester | Manual Testing
+
 Tools: Jira | Excel | Web Testing
 
