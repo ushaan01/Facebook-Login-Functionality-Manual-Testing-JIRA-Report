@@ -36,15 +36,20 @@ Environment: www.facebook.com
 Suggested next steps:
 
  Check for any error messages on the page.
-  Reconfirm the test credentials are correct.  
+ 
+  Reconfirm the test credentials are correct. 
+  
   Try the same steps in another browser.
    
 
 🧰 Test Artifacts
-                 Test Case Document: Facebook Login Functionality Test Case.xlsx
-                 Bug Report: Jira_Report.png
-                 Test Type: Functional Testing
-                 Testing Approach: Positive and Negative testing
+
+Test Case Document: Facebook Login Functionality Test Case.xlsx
+
+Bug Report: Jira_Report.png
+
+Test Type: Functional Testing
+Testing Approach: Positive and Negative testing
 
 📈 Tools Used
              Test Case Management: Excel
