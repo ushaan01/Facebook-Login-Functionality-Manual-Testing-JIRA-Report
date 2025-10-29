@@ -1,7 +1,8 @@
 
 📘 Project Title: Facebook Login Functionality — Manual Test Cases
 
-🔍 Project Summary
+🔍 Project Summary:
+
 This repository contains a small manual testing suite for the Facebook login functionality. The goal is to validate login behavior for positive and negative scenarios and to record results.
 
 📊 Test Execution Summary:
