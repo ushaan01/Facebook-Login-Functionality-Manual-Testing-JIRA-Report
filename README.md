@@ -11,12 +11,18 @@ This repository contains a small manual testing suite for the Facebook login fun
 The goal is to validate login behavior for positive and negative scenarios and to record results.
 
 
+
 📊 Test Execution Summary:
-                          Total Test Cases: 4
-                          Passed: 3
-                          Failed: 1
-                          Blocked / Not Run: 0
+
+Total Test Cases: 4
+
+Passed: 3
+
+Failed: 1
+
+Blocked / Not Run: 0
                           
+
 
 📄 Failed Test Case — Details
 
@@ -27,10 +33,14 @@ Test Case ID: TC_FB_01
 Test Case Title: Login Failed with Valid Credentials
 
 Description:
-           Click on login,
-           Enter valid email and password,
-           Click on submit,
-           Observe login result
+
+Click on login
+          
+ Enter valid email and password
+ 
+Click on submit
+
+Observe login result
            
 Expected Result: Login should be successful
 
@@ -43,12 +53,13 @@ Environment: www.facebook.com
 
 Suggested next steps:
 
- Check for any error messages on the page.
+Check for any error messages on the page.
  
-  Reconfirm the test credentials are correct. 
+Reconfirm the test credentials are correct. 
   
-  Try the same steps in another browser.
+Try the same steps in another browser.
    
+
 
 🧰 Test Artifacts
 
@@ -60,6 +71,8 @@ Test Type: Functional Testing
 
 Testing Approach: Positive and Negative testing
 
+
+
 📈 Tools Used
 
   Test Case Management: Excel
@@ -69,6 +82,8 @@ Testing Approach: Positive and Negative testing
  Environment: Web Application (Facebook)
  
  Browser Used: Chrome
+
+ 
 
 👩‍💻 Author
 
