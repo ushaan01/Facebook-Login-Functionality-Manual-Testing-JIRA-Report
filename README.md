@@ -25,7 +25,7 @@ Blocked / Not Run: 0
                           
 
 
-📄 Failed Test Case — Details
+📄 Failed Test Case — Details:
 
 
 
