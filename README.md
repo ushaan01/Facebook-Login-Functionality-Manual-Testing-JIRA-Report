@@ -71,7 +71,24 @@ Check for any error messages on the page.
 Reconfirm the test credentials are correct. 
   
 Try the same steps in another browser.
+
+📂 Folder Structure
    
+Facebook-Login-Functionality-Testing/
+│
+├── TestCases/
+
+│   └── Facebook_Login_Functionality_Test_Cases.xlsx
+│
+├── JiraReport/
+
+│   └── Login_Failed_With_Valid_Credentials.png
+│
+├── Screenshots/
+
+│   └── TestEvidence.png
+│
+└── README.md
 
 
 🧰 Test Artifacts
@@ -83,6 +100,21 @@ Bug Report: Jira_Report.png
 Test Type: Functional Testing
 
 Testing Approach: Positive and Negative testing
+
+
+📅 Project Timeline
+
+| Activity           | Date        |
+
+| Test Case Creation | 07-Jul-2025 |
+
+| Test Execution     | 13-Jul-2025 |
+
+| Review             | 15-Jul-2025 |
+
+| Jira Bug Logged    | 16-Jul-2025 |
+
+
 
 
 
