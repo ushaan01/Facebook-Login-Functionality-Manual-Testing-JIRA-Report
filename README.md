@@ -44,6 +44,8 @@ Blocked / Not Run: 0
 
 Issue Title: Login Failed with Valid Credentials
 
+Test Case ID: TC_FB_01
+
 Description:
 
 Click on login
@@ -58,35 +60,9 @@ Expected Result: Login successful
 
 Actual Result: Login failed
 
-Environment: www.demoapp@xyz
-
-                          
-
-
-📄 Failed Test Case — Details:
-
-Test Case ID: TC_FB_01
-
-Test Case Title: Login Failed with Valid Credentials
-
-Description:
-
-Click on login
-          
- Enter valid email and password
- 
-Click on submit
-
-Observe login result
-           
-Expected Result: Login should be successful
-
-Actual Result: Login failed
-
 Status: ❌ Failed
 
-Environment: www.facebook.com
-
+Environment: www.demoapp@xyz
 
 Suggested next steps:
 
