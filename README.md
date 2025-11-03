@@ -3,7 +3,9 @@
 
 🔍 Project Summary:
 
-This repository contains a small manual testing suite for the Facebook login functionality. The goal is to validate login behavior for positive and negative scenarios and to record results.
+This repository contains a small manual testing suite for the Facebook login functionality with JIRA report. 
+
+The goal is to validate login behavior for positive and negative scenarios and to record results.
 
 📊 Test Execution Summary:
                           Total Test Cases: 4
