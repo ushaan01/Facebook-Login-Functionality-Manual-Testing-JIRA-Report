@@ -75,19 +75,27 @@ Try the same steps in another browser.
 📂 Folder Structure
    
 Facebook-Login-Functionality-Testing/
+
 │
+
 ├── TestCases/
 
 │   └── Facebook_Login_Functionality_Test_Cases.xlsx
+
 │
+
 ├── JiraReport/
 
 │   └── Login_Failed_With_Valid_Credentials.png
+
 │
+
 ├── Screenshots/
 
 │   └── TestEvidence.png
+
 │
+
 └── README.md
 
 
