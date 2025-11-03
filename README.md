@@ -72,6 +72,7 @@ Reconfirm the test credentials are correct.
   
 Try the same steps in another browser.
 
+
 📂 Folder Structure
    
 Facebook-Login-Functionality-Testing/
@@ -99,7 +100,9 @@ Facebook-Login-Functionality-Testing/
 └── README.md
 
 
+
 🧰 Test Artifacts
+
 
 Test Case Document: Facebook Login Functionality Test Case.xlsx
 
@@ -110,7 +113,9 @@ Test Type: Functional Testing
 Testing Approach: Positive and Negative testing
 
 
+
 📅 Project Timeline
+
 
 | Activity           | Date        |
 
