@@ -4,9 +4,11 @@
 Facebook Login Functionality — Manual Testing
 
 
-🔍 Project Summary:
+📋 Project Summary:
 
-This repository contains a small manual testing suite for the Facebook login functionality with JIRA report. 
+This repository contains a small manual testing suite for the Facebook login functionality. 
+
+The testing includes manual test case documentation, execution results, and bug reporting in Jira
 
 The goal is to validate login behavior for positive and negative scenarios and to record results.
 
@@ -22,12 +24,46 @@ Passed: 3
 Failed: 1
 
 Blocked / Not Run: 0
+
+
+🧪 Test Execution Summary
+
+
+| Test Case ID | Description                      | Expected Result         | Actual Result      | Status |
+
+| TC_Login001  | Login with valid credentials     | Successful Login        | Unsuccessful Login | ❌ Fail |
+
+| TC_Login002  | Valid username, invalid password | Error message displayed | As expected        | ✅ Pass |
+
+| TC_Login003  | Invalid username, valid password | Error message displayed | As expected        | ✅ Pass |
+
+| TC_Login004  | Invalid username and password    | Error message displayed | As expected        | ✅ Pass |
+
+
+🐞 Defect Logged (Jira)
+
+Issue Title: Login Failed with Valid Credentials
+
+Description:
+
+Click on login
+
+Enter valid email and password
+
+Click on submit
+
+Login failed
+
+Expected Result: Login successful
+
+Actual Result: Login failed
+
+Environment: www.demoapp@xyz
+
                           
 
 
 📄 Failed Test Case — Details:
-
-
 
 Test Case ID: TC_FB_01
 
